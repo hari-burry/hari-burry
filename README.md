@@ -1,4 +1,6 @@
-Only here for the food.
+Sharing projects i've created here so i can host them on Vercel :)
+
+Learning fullstack Development,particularly the MERN Stack and eager to venture out to the DOTNET Ecosystem,cus im very much impressed by it.
 <!--
 **hari-burry/hari-burry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
